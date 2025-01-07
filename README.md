@@ -20,22 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Databricks e a Transformação Digital na área de Pessoas;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A inteligência artificial (IA) tem se consolidado como uma ferramenta indispensável para a transformação digital em diversos setores, inclusive na área de Pessoas. No exemplo abaixo, exploramos a utilização do CHAPGPT e também do Gamma para a criação uma apresentação discorrendo sobre o uso da ferramenta Databricks na área de Pessoas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT: Estruturação de conteúdo, revisão e refinamento das ideias.
+IA Generativa Gamma: Criação da arte visual e formatação do e-book.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi feito uma pesquisa no ChatGPT para criação de um conteúdo falando sobre como a ferramenta Databricks poderia ajudar na área de RH (Pessoas).
+Foi solicitado com base neste conteúdo para gerar no Gamma uma apresentação em PPT. A primeira versão ficou muito colorida e após 3 refinamentos foi solicitado criar uma versão um pouco mais profissional e com fotos num estilo mais corporativo, ressaltando diversidade e também a questão de gerações conforme mostra no último slide.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Apresente os resultados do seu projeto](https://gamma.app/docs/Databricks-e-a-Transformacao-Digital-na-area-de-Pessoas-oayn95amtbq34t5
+)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Excelente ferramenta, pois por exemplo para criar a apresentação foi extremamente rápido, e quanto mais informações e detalhes você for colocando, mais refinado fica a apresentação. Um outro ponto a destacar e de ter a visão critica tirando o conteúdo que não interessa e complementando com outras informações relevantes. Para uma primeira experiencia foi fascinante o uso das ferramentas de IA.
+
 ```
 
 ### Exemplos e Insigths
